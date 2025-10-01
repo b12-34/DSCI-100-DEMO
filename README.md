@@ -5,4 +5,4 @@ Template project repository for DSCI-100
 
 #A new line added from Jupyter
 
-#Added line from github to view on jupyter via pushing
+#Added line from github to view on jupyter via pulling
